@@ -1,0 +1,15 @@
+crewai==0.28.8
+crewai-tools==0.1.6
+google-api-python-client==2.108.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+facebook-sdk==3.1.0
+tweepy==4.14.0
+linkedin-api==2.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+schedule==1.2.0
+pydantic==2.5.0
+langchain==0.1.0
+langchain-openai==0.0.2
+pytz==2023.3
